@@ -1,0 +1,16 @@
+-- CREATE DATABASE shadab;    DATA BASE BANA HAI -- 
+-- use shadab;        -- YAHA HUM NA DATABASE KO USE KIYA HAI 
+-- AB HUM NA TALE CREATE KI HAI DATABASE MAI 
+-- CREATE TABLE students(
+-- Name VARCHAR(50),
+--     Age INT,
+--     Course VARCHAR(50)
+--     );
+-- YA HA HUM NA TABLE KA ANDER VALUES ADD KI HAI INSERT KI HELP SE
+--     INSERT INTO students 
+--     VALUES
+-- ('shadab ' ,62,'computer science ')
+-- ,('ayesha', 44,'Electronics'),
+-- ('rahul',34,'Mechanical')
+
+-- ;
