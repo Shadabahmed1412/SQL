@@ -1,0 +1,17 @@
+CREATE DATABASE XYZ ;
+USE XYZ;
+
+CREATE TABLE students( studentid INT PRIMARY KEY ,
+name VARCHAR(50), 
+Score INT , Class INT );
+
+
+;
+
+INSERT INTO students  (studentid, name, Score , Class )VALUE (1,"SHADAB",95,10),(2,"rahul ",54,8),(3,"riya ",24,12),(4,"Ajaz",43,11);
+-- SELECT * FROM students WHERE SCORE >40 ;
+SELECT   Count(*) 
+ FROM students
+WHERE Score >60;
+
+SELECT * FROM students
